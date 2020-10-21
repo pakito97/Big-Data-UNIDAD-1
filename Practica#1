@@ -1,7 +1,0 @@
-**Ejercicio#1**
-
-//ejercicio 1
-
-var pi=3.1416
-var p=14.2563
-var radio=(p/(2*pi))
