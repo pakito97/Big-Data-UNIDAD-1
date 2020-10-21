@@ -1,3 +1,5 @@
+*Practice 2*
+
 **Ecercise 1**
 
 //Create a list called "list" with the elements "red", "white", "black"
