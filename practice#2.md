@@ -3,6 +3,7 @@
 //Create a list called "list" with the elements "red", "white", "black"
 import scala.collection.mutable.ListBuffer
 var lista = collection.mutable.ListBuffer("rojo","blanco","negro")
+
 /////////////////////////////////////////////////////////////////////////
 
 **Ecercise 2**
@@ -16,6 +17,7 @@ lista += "amarillo"
 lista += "azul"
 lista += "naranja"
 lista += "perla"
+
 /////////////////////////////////////////////////////////////////////////
 
 **Ecercise 3**
@@ -31,12 +33,14 @@ lista += "naranja"
 lista += "perla"
 
 lista slice (3,6)
+
 /////////////////////////////////////////////////////////////////////////
 
 **Ecercise 4**
 
 //Create an array of numbers in the range 1-1000 in steps of 5 by 5
 Array.range(1, 1000, 5)
+
 ////////////////////////////////////////////////////////////////////////
 
 **Ecercise 5**
@@ -46,6 +50,7 @@ import scala.collection.mutable.ListBuffer
 var lista = collection.mutable.ListBuffer(1,3,3,4,6,7,3,7)
 
 lista.toSet
+
 ////////////////////////////////////////////////////////////////////////
 
 **Ecercise 6**
