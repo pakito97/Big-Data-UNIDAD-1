@@ -1,4 +1,5 @@
 #Practice 1
+
 **Exercise 1**
 
 //Develop a scala algorithm that calculates the radius of a circle
