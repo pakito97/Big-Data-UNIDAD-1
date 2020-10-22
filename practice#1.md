@@ -2,9 +2,11 @@
 **Exercise 1**
 
 //Develop a scala algorithm that calculates the radius of a circle
+<br>
 var pi=3.1416
 var p=14.2563
 var radio=(p/(2*pi))
+</br>
 
 
 ////////////////////////////////////////////////
