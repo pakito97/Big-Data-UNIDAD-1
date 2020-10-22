@@ -1,6 +1,4 @@
 # Big-Data-UNIDAD-1
-
-# Big-Data-UNIDAD-1
 <br>
 <a>
   practice#1
