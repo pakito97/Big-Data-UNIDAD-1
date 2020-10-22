@@ -2,12 +2,10 @@
 **Exercise 1**
 
 //Develop a scala algorithm that calculates the radius of a circle
-<br>
+
 var pi=3.1416
 var p=14.2563
 var radio=(p/(2*pi))
-</br>
-
 
 ////////////////////////////////////////////////
 
@@ -15,6 +13,7 @@ var radio=(p/(2*pi))
 **Exercise 2**
 
 //Develop an algorithm in scala that tells me if a number is prime
+
 def isPrime2(i :Int) : Boolean = {
 |     if (i <= 1)
 |       false
