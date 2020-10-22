@@ -5,7 +5,11 @@
 var pi=3.1416
 var p=14.2563
 var radio=(p/(2*pi))
+
+
 ////////////////////////////////////////////////
+
+
 **Exercise 2**
 
 //Develop an algorithm in scala that tells me if a number is prime
@@ -19,7 +23,11 @@ def isPrime2(i :Int) : Boolean = {
 |   }
 // isPrime2: (i: Int)Boolean
 (1 to 10).foreach(i => if (isPrime2(i)) println("%d is prime.".format(i)))
+
+
 ////////////////////////////////////////////////
+
+
 **Exercise 3**
 
 //Given the variable bird = "tweet", use string interpolation to
@@ -27,6 +35,8 @@ def isPrime2(i :Int) : Boolean = {
 var bird = "tweet"
 string conexion "Estoy escribiendo un Twwet"
 println("Estoy escribiendo un %s",bird)
+
+
 ///////////////////////////////////////////////
 
 **Exercise 4**
@@ -35,12 +45,14 @@ println("Estoy escribiendo un %s",bird)
  sequence "Luke" */
 var mensaje = "Hola Luke soy tu padre!"
 mensaje.slice(5,9)
+
 //////////////////////////////////////////////
 
 **Exercise 5**
 
 //What is the difference between value and a variable in scala?
 //value (val) se le asigna un valor definido y no puede ser cambiado en cambio una variable (var) puede ser cambiada en cualquier momento.
+
 //////////////////////////////////////////////
 
 **Exercise 6**
