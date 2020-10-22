@@ -1,4 +1,3 @@
-#Exercice 3
 
 // Practice 3, analyse the following code with your own words
 
