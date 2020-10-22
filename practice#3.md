@@ -16,6 +16,7 @@ def listEvens(list:List[Int]): String ={
 / * We first create the list called listEvens and indicate the type of list, in this case they will be pure integers and indicate a string, in case they enter a number in the list
 double bone with decimal point will mark error, then we create a for loop that will help us to read all the content of the list and within the same for we have
 another loop called if-else that its only function is to tell the user what number is odd or even, and finally a string called done will be returned */
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 val l = List(1,2,3,4,5,6,7,8)
 val l2 = List(4,3,22,55,7,8)
@@ -40,6 +41,7 @@ def afortunado(list:List[Int]): Int={
 /*In this code as in the previous one we will create a list called lucky of integer type and then we will create a variable called res
 with a value of 0, using a for loop we will make an if-else loop with which if n is equal to 7 the variable res will be equal to the sum of the same variable
 plus 14 and we will return the variable res, otherwise it will be added whatever is worth n*/ 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 val af= List(1,7,7)
 println(afortunado(af))
@@ -80,6 +82,7 @@ balance(bl2)
 balance(bl3)
 /*here we call the balance list with the value obtained that is inside the variable created before
 bl, bl2 bl3 and we will see if the balance is true or false*/
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 def palindromo(palabra:String):Boolean ={
     return (palabra == palabra.reverse)
