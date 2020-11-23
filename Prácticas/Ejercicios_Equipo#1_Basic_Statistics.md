@@ -1,7 +1,12 @@
 ### Correlation
+
 '''scala
 import org.apache.spark.ml.linalg.{Matrix, Vectors}
+
+'''scala
 import org.apache.spark.ml.stat.Correlation
+
+'''scala
 import org.apache.spark.sql.Row
 
 '''scala
@@ -46,5 +51,4 @@ object CorrelationExample{
         '''scala
         spark.stop()
     }
-'''scala
-}
+    }
